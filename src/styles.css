@@ -142,3 +142,19 @@
     color: var(--color-foreground);
   }
 }
+
+/* ===== Post Editor tokens ===== */
+:root {
+  --editor-bg: #080e0b;
+  --editor-surf: #0f1a12;
+  --editor-surf2: #122519;
+  --editor-surf3: #0d1f16;
+  --editor-border: #1c3d27;
+  --editor-border2: #254d33;
+  --editor-text: #eef5f0;
+  --editor-muted: #5a8a6a;
+  --editor-dim: #2a4a35;
+  --editor-primary: #00e887;
+  --editor-primary-bg: #091f12;
+}
+body { font-family: "Sora", system-ui, sans-serif; }
